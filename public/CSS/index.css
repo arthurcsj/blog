@@ -1,0 +1,85 @@
+body{
+
+  background-color: #0C172D;
+  color:#7973D6 ;
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  #prin { background-image: url(/public/IMG/logoinicio.jpg); background-repeat: repeat; }
+
+.col-1{
+  padding: 10px
+}
+
+
+  .container-1{
+    background-color: #0C172D;
+    color: whitesmoke;
+    padding: 80px;
+    font-size: 18px;
+  }
+  #texinicial{
+    padding: 30px;
+    color:whitesmoke;
+  }
+  #fant {
+    height: 150px;
+    width: 150px;
+    border-radius:80%;
+
+  }
+  #js{
+    height: 150px;
+    width: 150px;
+    border-radius:80%;
+  }
+
+
+#text-footer{
+  text-align:center;
+}
+/* edicao dos textos */
+
+#title1{
+  color: white;
+}
+#subtext1{
+  color:white;
+}
+
+#links1{
+  color:#7973D6;
+}
+
+#subtitulo{
+  color: #7973D6;
+}
+
+.stretched-link{
+  color:#7973D6;
+}
+.stretched-link{
+  color:#7973D6;
+}
+.fofocatitulo{
+  color: #7973D6;
+}
+
+.col-3{
+  color: #7973D6;
+}
+
+#text-footer{
+  color: #7973D6;
+}

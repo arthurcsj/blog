@@ -1,0 +1,23 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "projeto final",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthurcsj/blog.git"
+  },
+  "author": "Arthur cleuber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthurcsj/blog/issues"
+  },
+  "homepage": "https://github.com/arthurcsj/blog#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "require": "^2.4.20"
+  }
+}
